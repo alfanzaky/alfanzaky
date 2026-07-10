@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alfan 👋
+# Hi, I'm Alfan
 
 ### Curious mind • Linux enthusiast • AI-assisted builder
 
