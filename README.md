@@ -1,9 +1,17 @@
 <div align="center">
 
-# Hi, I'm Alfan
+# Hi, I'm Alfan 
 
-### Curious mind • Linux enthusiast • AI-assisted builder
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=2EA043&center=true&vCenter=true&repeat=false&width=650&lines=Curious+mind+%E2%80%A2+Linux+enthusiast+%E2%80%A2+AI-assisted+builder"
+    alt="Curious mind, Linux enthusiast, and AI-assisted builder"
+  />
+</a>
 
+</div>
+
+<div align="center">
 <code>No degree. No bootcamp. Just curiosity, experimentation, and real problems to solve.</code>
 
 <br><br>
